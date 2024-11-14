@@ -1,4 +1,3 @@
-[My GitHub Profile](https://github.com/MOHAMEDRIDWAN)
 # EX-NO-11-ELLIPTIC-CURVE-CRYPTOGRAPHY-ECC
 
 ## Aim:
